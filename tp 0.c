@@ -3,8 +3,7 @@ SSL TP #0*/
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
-	freopen("output.txt","w",stdout);
+int main(void){
 	printf ("Hola mundo");
 	return 0; 
 }
